@@ -1,0 +1,20 @@
+
+This directory is intended for PlatformIO Test Runner and project tests.
+
+Unit Testing is a software testing method by which individual units of
+source code, sets of one or more MCU program modules together with associated
+control data, usage procedures, and operating procedures, are tested to
+determine whether they are fit for use. Unit testing finds problems early
+in the development cycle.
+
+More information about PlatformIO Unit Testing:
+- https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+
+
+notes
+
+                                          {G,0,F4,Ds,   D,_As,_A,0,   C,D, 0,Ds,    F4,D,0,0       },  //kirby intro
+                                          {C_,0,G,0,    Ds,D,C,0,     C,D,Ds,C,     _As,C,_A,0     },  //kirby part1
+                                          {C_,0,G,0,    Ds,D,C,C,     C,D,Ds,F4,    D,_As,C,_A     },  //kirby part2
+                                          {C_,0,G,0,    Ds,D,C,C,     D,Ds,F4,      D,_As,C,_A,C   }   //kirby part3
