@@ -180,7 +180,7 @@ void sequencer_printIdWithLetter(uint8_t id)
       Serial.print("C4s");
       break;
     case 6:
-      Serial.print("D4s");
+      Serial.print("D4");
       break;
     case 7:
       Serial.print("D4s");
